@@ -1,4 +1,21 @@
 # Early Adulthood
 
-_Write this chapter here._
+While waiting for university applications to open, I started looking for work. On March 2nd, I got lucky and landed a job at a retired high school principal's home as a house help — cleaning, doing chores, and caring for pets and livestock — for a monthly wage of 5,000 KSh. I spent most of that money on data bundles, for both research and entertainment.
 
+With tech as my only realistic path forward, I began teaching myself programming, guided largely by YouTube tutorials. I applied for a Bachelor of Science in Software Engineering at Kisii University and was admitted on August 21st, 2025. By the time lectures started, I was already ahead of my coursemates — though I kept attending regardless.
+
+In my first semester, I started a group to teach fellow students to code, called **The Elites Coding Group**. I built a CLI app to help female friends track their menstrual cycles. It was well received but simple — my coursemates wanted more. That's where my innovation journey really began. I added features they asked for: a color-coded fertility tracker — red for high-fertility days, yellow for moderate, green for low-fertility days considered safer for unprotected sex. I shipped it, and this time it landed well.
+
+Something told me it could become more, so I started rebuilding it from scratch as a real application. I explored the broader healthcare space, identified some gaps in the system, and brought in a friend from the group, James, to help me build it out properly. Around the same time, I'd been studying the world's wealthiest people and noticed most had built their fortunes in tech — which pushed me to think in terms of a startup, not just an app. This one became the flagship product of what we believed, informally, was a startup — never officially registered, but real to us. James and I assembled a team of five and named the project **Novela**, a unified healthcare app, with James leading its development.
+
+Most of the team eventually dropped off — schoolwork and the technical complexity of what I was proposing wore people down, and some wanted payment I couldn't provide. That left James and me to carry it forward alone.
+
+In the meantime, I started a second venture, **Sorabbyngo** — a name I'd had since high school, without originally knowing what it meant. It was meant to focus on AI development, but without anyone around who could help me build or fine-tune models, I pivoted the idea into something different: **Sorabbyngo OS**. It was inspired by science fiction — *Her*, *Transcendence*, *Upgrade*, *Ex Machina*, JARVIS from *Iron Man*, *Chappie*, among others. I've always loved sci-fi.
+
+I started working on a new kind of software — an "agentic OS," combining an operating system with an AI layer, which I called Sorabbyngo OS. The idea was ambitious enough that no one wanted to help build it. Without the professional skills to build an entire OS from scratch, I studied existing Linux distributions in depth, forked the Linux kernel, customized it, and began layering in an AI runtime. The OS was meant to be self-improving, but that raised real questions of trust — what if the AI went rogue and started rewriting its own kernel code? Combined with a lack of funding to upgrade my hardware, I eventually paused development on the OS and shifted focus to Novela's backend, while James handled the frontend. By the end of semester one of year one, we had a working prototype.
+
+During the long April holiday, I visited my uncle, Julius, for two months — he served in the Kenya Air Force. Still driven by my interest in military technology and engineering, I began working on cyber-defense projects combined with UAVs, which became another venture I called **T13 Systems**. My uncle supported these projects financially, which I deeply appreciated, but keeping up with the sheer weight of multiple projects while staying on top of academics at school became unsustainable.
+
+Eventually, I decided to drop out of university to focus fully on building these ventures — though I stayed close to campus to remain near my friends and the free resources the school offered. I was twenty years old when I dropped out, and I never officially attended another class from that point on.
+
+That's where things stand as of today. I'll keep adding to this as I grow.

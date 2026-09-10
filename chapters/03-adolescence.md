@@ -1,4 +1,9 @@
 # Adolescence
 
-_Write this chapter here._
+I joined Ugenya Boys' High School on August 2nd, 2021, where I excelled and was often at the top of my class. My interest in STEM deepened — mathematics, chemistry, biology, physics, geography — and I became convinced I would one day become a doctor, specifically a surgeon, or an engineer. I joined several science clubs, and that's where my passion for innovation first took root.
 
+My difficult background changed me. I became something else — what I privately thought of as "a living machine," ready to take on anything. My father disliked hearing that I'd been seen with a girl, even a classmate, which pushed me to distance myself from female friendships almost entirely. I spent most of my free time alone, studying and researching random STEM topics, or watching movies — especially sci-fi and action films.
+
+I became a beast — strong in physics and math, shaped by a hostile environment. I never showed anyone what I was capable of; I stayed quiet, but it kept growing underneath. I taught myself everything I could about technology trends, warfare, economics, healthcare, and engineering. By Form 3, my interests had expanded into medicine, pharmacy, computer science, mechatronic engineering, and nuclear engineering. Nobody quite understood the last one — it even drew concerned attention from teachers, who assumed "nuclear" could only mean weapons. Regardless, I kept topping my class, even if I stayed under the radar. I kept a small circle of close friends who shared similar interests, mostly in medicine and engineering.
+
+I sat my KCSE (Kenya Certificate of Secondary Education) — my final high school exam — confident I'd score an A plain and secure a place in medicine at a good university. Luck wasn't on my side. I got a B+, and when results came out on January 10th, 2025, I knew medicine was no longer realistic. It was time to fall back on my backup plan: technology. Most of the engineering fields I wanted weren't offered at Kenyan universities anyway, and I lacked the tuition fees to pursue them regardless.
